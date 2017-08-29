@@ -1,0 +1,12 @@
+{
+  "autoPin": true,
+  "pins": [
+    {
+      "package": "Cpcap",
+      "reason": null,
+      "repositoryURL": "/Users/merturk/Playground/Projects/AppCode/Cpcap",
+      "version": "1.0.0"
+    }
+  ],
+  "version": 1
+}
